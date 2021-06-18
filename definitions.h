@@ -9,7 +9,7 @@
 #include <stdint.h>
 #include <stdlib.h>
 
-#define NUM_RECEPTIONIST_STAFF 1
+#define NUM_RECEPTIONIST_STAFF 2    // You can change this number as you will
 
 void moveIntoHospital()
 { 
