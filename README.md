@@ -6,7 +6,7 @@ file you can change the number of receptionist staff.
 Patients and doctors are threads.
 Before a doctor can treat a patient, a patient needs do register at a receptionist. 
 Each doctor and each receptionist can only handle one person at a time.   
-It requires two different types of locks: Semaphores ans mutexes.
+It requires two different types of locks: Semaphores and mutexes.
 
 
 # Execution
